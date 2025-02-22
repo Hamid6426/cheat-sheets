@@ -3,7 +3,7 @@ A collection of useful cheatsheets for quick reference. Perfect for developers, 
 
 ## Available Cheatsheets  
 
-| Category            | Cheatsheet     | Link |
+| Category            | Cheatsheet     | CheatSheet Link |
 |---------------------|---------------|------|
 | Web Development    | HTML          | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/html.md) |
 | Web Development    | CSS           | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/css.md) |
