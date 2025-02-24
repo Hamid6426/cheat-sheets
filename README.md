@@ -7,6 +7,7 @@ A collection of useful cheatsheets for quick reference. Perfect for developers, 
 |---------------------|---------------|------|
 | Web Development    | HTML          | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/HTML.md) |
 | Web Development    | CSS           | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/CSS.md) |
+| Web Development    | HTML/CSS      | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/HTML/CSS.md) |
 | Programming        | JavaScript    | [Link](https://github.com/Hamid6426/cheat-sheets/blob/main/list/JAVASCRIPT.md) |
 | Programming        | TypeScript    | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/typescript.md) |
 | Programming        | Python        | [Link](https://github.com/hamid6426/cheatsheet-repo/blob/main/list/python.md) |
